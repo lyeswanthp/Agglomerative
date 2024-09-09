@@ -1,0 +1,1 @@
+The file Agglomerative_clustering_code_review.py performs agglomerative clustering. The function find_closest_clusters has been optimized using using numpy and comments are used to demonstrate thw working of code.
